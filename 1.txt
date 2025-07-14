@@ -1,0 +1,7 @@
+echo "# C_codes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shuvo0710/C_codes.git
+git push -u origin main
